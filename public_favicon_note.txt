@@ -1,0 +1,1 @@
+Copy src/assets/favicon.svg to public/favicon.svg, or use the supplied favicon.svg at the project root as public/favicon.svg.
